@@ -5,3 +5,7 @@ Fiz na aula
 
 - pao
 - macarrão
+- molho de tomate
+- carne moida
+- batata
+- sorvete
